@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DHL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64081c4c896b57ec",
+  "active": "bed52260fb4c7c1e",
   "lastOpenFiles": [
     "templates/+++.md",
     "First Post.md",
