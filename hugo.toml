@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blogs.modelcargomoovers.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Cargo Bytes'
 theme = "hugo-bearblog"
