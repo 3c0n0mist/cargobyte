@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Cargo Bytes</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>//localhost:1313/blog/</link>
     <description>Recent content in Blogs on Cargo Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Affordable Shipping</title>
-      <link>http://localhost:1313/blog/first-post/</link>
+      <link>//localhost:1313/blog/first-post/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/first-post/</guid>
+      <guid>//localhost:1313/blog/first-post/</guid>
       <description>&lt;p&gt;Students often live on a tight budget, which makes them save money on everything they buy.&#xA;Most of them try to find cheaper goods or services to cut down expenses, and shipping is no exception.&lt;/p&gt;&#xA;&lt;p&gt;Hence, this guide is aimed to help students opt for the most affordable shipping service depending on a few factors.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Keep reading to learn more!&lt;/strong&gt;  Key rate factors to consider&lt;/p&gt;&#xA;&lt;p&gt;Unfortunately, there is no singular low-priced way to ship packages. Rates are always influenced by the factors listed below.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/templates/&#43;&#43;&#43;/</link>
+      <link>//localhost:1313/blog/templates/&#43;&#43;&#43;/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/templates/&#43;&#43;&#43;/</guid>
+      <guid>//localhost:1313/blog/templates/&#43;&#43;&#43;/</guid>
       <description>&lt;p&gt;title = &amp;ldquo;Your Post Title&amp;rdquo;&#xA;date= YYYY-MM-DD&#xA;tags = [&amp;ldquo;post&amp;rdquo;]&#xA;draft = true&#xA;+++title = &amp;ldquo;Your Post Title&amp;rdquo;&#xA;date= YYYY-MM-DD&#xA;tags = [&amp;ldquo;post&amp;rdquo;]&#xA;draft = true&#xA;+++&lt;/p&gt;</description>
     </item>
   </channel>
