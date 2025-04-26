@@ -1,4 +1,4 @@
-baseURL = 'https://blogs.modelcargomoovers.com/'
+baseURL = 'https://cargobytes.pages.dev/'
 languageCode = 'en-us'
 title = 'Cargo Bytes'
 theme = "hugo-bearblog"
