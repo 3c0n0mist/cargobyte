@@ -1,6 +1,6 @@
 +++
 title = "Affordable Shipping"
-date= 2025-04-26
+date= 2025-03-26
 tags = ["shipping","dhl","fedex","affordability"]
 draft = false
 +++
